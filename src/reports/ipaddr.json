@@ -1,0 +1,1 @@
+{"192.168.1.1":{"ipAddress":"192.168.1.1","requests":3,"bytesSent":6144,"requestPercentage":75.0,"bytesPercentage":92.3076923076923},"192.168.1.2":{"ipAddress":"192.168.1.2","requests":1,"bytesSent":512,"requestPercentage":25.0,"bytesPercentage":7.6923076923076925}}
